@@ -1,4 +1,4 @@
-# Turpial Net(2019)
+# Turpial Net (2019)
 One of the Intern Projects I found on my archive When I was in Barcelona
 
 ## Tech Stack
